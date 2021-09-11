@@ -1,8 +1,9 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 var https = require("https");
-const client = new Discord.Client();
-const blankMsg = new Discord.Message();
+const client = new Discord.Client({
+  intents: [Discord.Intents.FLAGS.GUILD_VOICE_STATES, Discord.Intents.FLAGS.GUILDS],
+});
 let commands = new Map();
 const server = require("./server");
 const app = server.server;
@@ -31,4 +32,4 @@ client.on("voiceStateUpdate", (vsold, vsnew) => {
   if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
 });
 
-client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.VLet4TDuy_X7N4QwAxqZNiC2ano");
+client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.XzlHeZYpq8T4r6PwPkwKHpzs0PM");
