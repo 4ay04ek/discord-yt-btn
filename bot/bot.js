@@ -32,4 +32,4 @@ client.on("voiceStateUpdate", (vsold, vsnew) => {
   if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
 });
 
-client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.XzlHeZYpq8T4r6PwPkwKHpzs0PM");
+client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.12hXF5k8P8JMPHgQwjrFZ2b9d-E");
