@@ -8,12 +8,7 @@ let commands = new Map();
 const server = require("./server");
 const app = server.server;
 
-app.get("/play", (req, res) => {
-  const user_guilds = server.user_guilds;
-  const user_id = server.user_id;
-  console.log(user_guilds);
-  console.log(user_id);
-});
+app.get("/play", (req, res) => {});
 
 fs.readdir("./commands", (err, files) => {
   files.forEach((f) => {
