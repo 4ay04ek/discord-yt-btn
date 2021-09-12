@@ -5,7 +5,7 @@
   },
   "name": "Discord Button",
   "version": "1.0.0",
-  "permissions": ["activeTab", "tabs", "scripting"],
+  "permissions": ["activeTab", "tabs", "scripting", "storage"],
   "host_permissions": ["*://*/*"],
   "content_scripts": [
     {

@@ -21,6 +21,7 @@ client.on("ready", async () => {
   app.listen(44038);
   console.log("ЗДАРОВА Я ПРОСНУЛСЯ");
 });
+
 client.on("message", async (msg) => {
   if (msg.content.startsWith("..")) {
     let data = msg.content.slice(2).split(" ");
@@ -32,4 +33,4 @@ client.on("voiceStateUpdate", (vsold, vsnew) => {
   if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
 });
 
-client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.MGbc-qWz_IbedL87L2BOAaYo8pk");
+client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.7qGpetw5IbRg9Xv9abZtdjrBp9I");
