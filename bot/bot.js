@@ -1,20 +1,63 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 var https = require("https");
-const client = new Discord.Client({
-  intents: [Discord.Intents.FLAGS.GUILD_VOICE_STATES, Discord.Intents.FLAGS.GUILDS],
-});
+const client = new Discord.Client();
 let commands = new Map();
 const server = require("./server");
+const axios = require("axios");
+const runFromYT = require("./commands/play").runFromYT;
 const app = server.server;
-
-app.get("/play", (req, res) => {});
 
 fs.readdir("./commands", (err, files) => {
   files.forEach((f) => {
     let props = require(`./commands/` + f);
     commands.set(props.name, props);
   });
+});
+
+app.post("/play", (req, res) => {
+  var user;
+  var guilds;
+  axios({
+    method: "get",
+    url: "https://discord.com/api/users/@me",
+    headers: {
+      authorization: req.body.token,
+    },
+  }).then((response) => {
+    axios({
+      method: "get",
+      url: "https://discord.com/api/users/@me/guilds",
+      headers: {
+        authorization: req.body.token,
+      },
+    }).then((res) => {
+      user = response.data.id;
+      guilds = res.data;
+      guilds.forEach(async (guild) => {
+        var guild_info;
+        try {
+          guild_info = await client.guilds.fetch(guild.id);
+        } catch (e) {}
+        if (guild_info != undefined) {
+          var channels = guild_info.channels.cache;
+          channels.forEach((channel) => {
+            if (channel.type == "voice") {
+              channel.members.forEach((member) => {
+                if (member.user.id == user) {
+                  runFromYT(client, member, req.body.url);
+                }
+              });
+            }
+          });
+        }
+      });
+    });
+  });
+});
+
+app.post("/skip", (req, res) => {
+  commands.get("skip").run();
 });
 
 client.on("ready", async () => {
@@ -33,4 +76,4 @@ client.on("voiceStateUpdate", (vsold, vsnew) => {
   if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
 });
 
-client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.7qGpetw5IbRg9Xv9abZtdjrBp9I");
+client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.Ybf4aVkc92HoEF3XTr82jx5_sEk");

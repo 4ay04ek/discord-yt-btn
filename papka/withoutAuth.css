@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Whitney-Black";
+  src: url("fonts/Whitney-Black.ttf") format("truetype");
+}
+
+body {
+  width: 400;
+  height: 240;
+  background-repeat: no-repeat;
+  background-size: 150%;
+  background-image: url("src/thumb-1920-909912.jpg");
+}
+
+#authBtn {
+  margin-top: 15;
+  margin-left: 70;
+  font-size: 22;
+  font-family: "Whitney-Black";
+  color: white;
+}

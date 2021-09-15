@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "name": "Discord Button",
+  "version": "1.0.0",
+  "permissions": ["activeTab", "tabs", "scripting", "storage"],
+  "host_permissions": ["*://*/*"]
+}

@@ -7,18 +7,18 @@ let connection;
 
 function next() {
   songs.shift();
-  connection.play(ytdl(songs[0], { filter: "audioonly" }));
+  connection.play(
+    ytdl(songs[0], {
+      filter: "audioonly",
+      encoderArgs: ["-vn", "-reconnect 1", "-reconnect_streamed 1", "-reconnect_delay_max 5"],
+    })
+  );
 }
 
 function play(url) {
-  const disp = connection
-    .play(ytdl(url, { filter: "audioonly" }))
-    .on("finish", () => {
-      next();
-    })
-    .on("error", (e) => {
-      message.channel.send(e);
-    });
+  const disp = connection.play(ytdl(url, { filter: "audioonly" })).on("finish", () => {
+    next();
+  });
 }
 
 module.exports.flush = () => {
@@ -70,7 +70,6 @@ module.exports.lyrics = (msg, arg) => {
 };
 
 module.exports.run = async (client, msg, arg) => {
-  message = msg;
   if (msg.member.voice.channel) {
     if (arg.indexOf("https://www.youtube.com") == -1) {
       let q = encodeURI(arg);
@@ -129,6 +128,14 @@ module.exports.run = async (client, msg, arg) => {
   } else {
     msg.reply("дурачок ЗАЙДИ В КАНАЛ СНАЧАЛА");
   }
+};
+
+module.exports.runFromYT = async (client, member, arg) => {
+  connection = await member.voice.channel.join();
+  if (songs.length == 0) {
+    play(arg);
+  }
+  songs.push(arg);
 };
 
 module.exports.name = "play";
