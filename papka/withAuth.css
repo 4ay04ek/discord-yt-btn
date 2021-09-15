@@ -45,6 +45,21 @@ body {
   font-style: italic;
 }
 
+#info {
+  display: flex;
+}
+
+#preview {
+  width: 120;
+  height: 90;
+}
+
+#title {
+  color: white;
+  font-size: 16;
+  margin-left: 5;
+}
+
 #maindiv {
   width: 100%;
   height: 100%;

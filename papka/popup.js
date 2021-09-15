@@ -22,24 +22,34 @@ async function withAuthRenderer(avatar, username, discriminator, token) {
     }
   });
   var playUrl;
-  setInterval(async () => {
+  var getUrl = setInterval(async () => {
     playUrl = (await axios.get("http://localhost:44038/getPlay")).data.url;
   }, 1000);
-  var progress = document.getElementById("progress");
-  setInterval(async () => {
-    var time = 0;
-    time = (await axios.get("http://localhost:44038/time")).data.time;
-    console.log(time);
-  }, 1000);
-  var r = await axios.get(
-    `https://www.googleapis.com/youtube/v3/videos?id=${activeTab.url.substring(
-      32,
-      43
-    )}&part=contentDetails&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
-  );
-  var duration = r.data.items[0].contentDetails.duration;
-  var minutes = duration.substring(duration.indexOf("PT") + 2, duration.indexOf("M"));
-  var seconds = duration.substring(duration.indexOf("M") + 1, duration.indexOf("S"));
+  console.log(playUrl);
+  if (playUrl) {
+    var progress = document.getElementById("progress");
+    setInterval(async () => {
+      var time = 0;
+      time = (await axios.get("http://localhost:44038/time")).data.time;
+    }, 1000);
+    var r = await axios.get(
+      `https://www.googleapis.com/youtube/v3/videos?id=${playUrl.substring(
+        32,
+        43
+      )}&part=contentDetails&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
+    );
+    var duration = r.data.items[0].contentDetails.duration;
+    var minutes = duration.substring(duration.indexOf("PT") + 2, duration.indexOf("M"));
+    var seconds = duration.substring(duration.indexOf("M") + 1, duration.indexOf("S"));
+    var r = await axios.get(
+      `https://www.googleapis.com/youtube/v3/videos?id=${playUrl.substring(
+        32,
+        43
+      )}&part=snippets&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
+    );
+    document.getElementById("preview").src = r.data.items[0].snippet.thumbnails.maxres.url;
+    document.getElementById("title").text = r.data.items[0].snippet.title;
+  }
 }
 
 function withoutAuthRenderer(href) {

@@ -7,6 +7,7 @@ const server = require("./server");
 const axios = require("axios");
 const runFromYT = require("./commands/play").runFromYT;
 const time = require("./commands/play").time;
+const getUrl = require("./commands/play").url;
 const app = server.server;
 
 fs.readdir("./commands", (err, files) => {
@@ -65,8 +66,8 @@ app.post("/skip", (req, res) => {
   commands.get("skip").run();
 });
 
-app.post("/getPlay", (req, res) => {
-  commands.get("skip").run();
+app.get("/getPlay", (req, res) => {
+  res.send({ url: getUrl() });
 });
 
 client.on("ready", async () => {
@@ -85,4 +86,4 @@ client.on("voiceStateUpdate", (vsold, vsnew) => {
   if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
 });
 
-client.login("");
+client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.fKoTTZHcHnOywxan9ZJCSSGW5ZY");

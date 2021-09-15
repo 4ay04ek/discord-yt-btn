@@ -5,9 +5,11 @@ const axios = require("axios");
 let songs = [];
 let connection;
 var disp;
+var m_url;
 
 function next() {
   songs.shift();
+  m_url = songs[0];
   disp = connection.play(
     ytdl(songs[0], {
       filter: "audioonly",
@@ -17,6 +19,7 @@ function next() {
 }
 
 function play(url) {
+  m_url = url;
   disp = connection.play(ytdl(url, { filter: "audioonly" })).on("finish", () => {
     next();
   });
@@ -141,6 +144,10 @@ module.exports.runFromYT = async (client, member, arg) => {
 
 module.exports.time = () => {
   return disp?.streamTime;
+};
+
+module.exports.url = () => {
+  return m_url;
 };
 
 module.exports.name = "play";
