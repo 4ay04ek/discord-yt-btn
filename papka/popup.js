@@ -9,12 +9,37 @@ async function withAuthRenderer(avatar, username, discriminator, token) {
   doc.getElementById("name").textContent = username;
   doc.getElementById("dis").textContent = "#" + discriminator;
   document.body.appendChild(doc.getElementById("maindiv"));
-  chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
+  chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
     if (activeTab.url.includes("youtube.com/watch")) {
       document.getElementById("controls").removeAttribute("hidden");
+      document.getElementById("play").onclick = async () => {
+        axios.post("http://localhost:44038/play", { url: activeTab.url, token: token });
+      };
+      document.getElementById("skip").onclick = () => {
+        axios.post("http://localhost:44038/skip");
+      };
     }
   });
+  var playUrl;
+  setInterval(async () => {
+    playUrl = (await axios.get("http://localhost:44038/getPlay")).data.url;
+  }, 1000);
+  var progress = document.getElementById("progress");
+  setInterval(async () => {
+    var time = 0;
+    time = (await axios.get("http://localhost:44038/time")).data.time;
+    console.log(time);
+  }, 1000);
+  var r = await axios.get(
+    `https://www.googleapis.com/youtube/v3/videos?id=${activeTab.url.substring(
+      32,
+      43
+    )}&part=contentDetails&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
+  );
+  var duration = r.data.items[0].contentDetails.duration;
+  var minutes = duration.substring(duration.indexOf("PT") + 2, duration.indexOf("M"));
+  var seconds = duration.substring(duration.indexOf("M") + 1, duration.indexOf("S"));
 }
 
 function withoutAuthRenderer(href) {
@@ -25,13 +50,13 @@ function withoutAuthRenderer(href) {
   authBtn.target = "_blank";
   authBtn.id = "authBtn";
   authBtn.text = "Авторизироваться с Discord";
-  chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
+  chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
     var activeTab = tabs[0];
     href += "&url=" + encodeURI(activeTab.url);
     console.log(href);
     authBtn.href = href;
     authBtn.onclick = () => {
-      chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
+      chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
         var activeTab = tabs[0];
         chrome.tabs.remove(activeTab.id);
       });
@@ -47,10 +72,8 @@ function errorRender(err) {
   document.body.appendChild(errordiv);
 }
 
-var rand = function() {
-  return Math.random()
-    .toString(36)
-    .substr(2);
+var rand = function () {
+  return Math.random().toString(36).substr(2);
 };
 
 function uniqid() {
@@ -65,7 +88,7 @@ chrome.storage.sync.get("token", (res) => {
   } else token = res.token;
   axios({
     method: "get",
-    url: "http://5.228.43.243:44038/user?token=" + token,
+    url: "http://localhost:44038/user?token=" + token,
   })
     .then((res) => {
       if (res.data != "Unauthorized") {
@@ -82,7 +105,7 @@ chrome.storage.sync.get("token", (res) => {
           withAuthRenderer(ava, info.data.username, info.data.discriminator, res.data);
         });
       } else {
-        withoutAuthRenderer("http://5.228.43.243:44038/redirect?token=" + token);
+        withoutAuthRenderer("http://localhost:44038/redirect?token=" + token);
       }
     })
     .catch((err) => {

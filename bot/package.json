@@ -11,11 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.6.0",
     "axios": "^0.21.4",
     "cookie-parser": "^1.4.5",
     "discord.js": "^12.5.3",
     "express": "^4.17.1",
     "ffmpeg-static": "^4.4.0",
+    "libsodium-wrappers": "^0.7.9",
     "opusscript": "^0.0.8",
     "ytdl-core": "^4.9.1"
   }

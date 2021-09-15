@@ -1,11 +1,12 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 var https = require("https");
-const client = new Discord.Client();
+const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS] });
 let commands = new Map();
 const server = require("./server");
 const axios = require("axios");
 const runFromYT = require("./commands/play").runFromYT;
+const time = require("./commands/play").time;
 const app = server.server;
 
 fs.readdir("./commands", (err, files) => {
@@ -40,7 +41,7 @@ app.post("/play", (req, res) => {
           guild_info = await client.guilds.fetch(guild.id);
         } catch (e) {}
         if (guild_info != undefined) {
-          var channels = guild_info.channels.cache;
+          var channels = await guild_info.channels.cache;
           channels.forEach((channel) => {
             if (channel.type == "voice") {
               channel.members.forEach((member) => {
@@ -56,7 +57,15 @@ app.post("/play", (req, res) => {
   });
 });
 
+app.get("/time", (req, res) => {
+  res.send({ time: time() });
+});
+
 app.post("/skip", (req, res) => {
+  commands.get("skip").run();
+});
+
+app.post("/getPlay", (req, res) => {
   commands.get("skip").run();
 });
 

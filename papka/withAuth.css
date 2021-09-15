@@ -52,32 +52,28 @@ body {
 }
 
 #play {
-  text-align: center;
-  width: 300;
-  margin-top: 30;
-  margin-left: 35;
-  font-size: 18;
   cursor: pointer;
-  font-family: "Whitney-Black";
-  background-color: #7289da;
-  border-radius: 5px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  color: white;
+  width: 25;
+  height: 25;
+  margin-top: 2;
 }
 
 #skip {
-  text-align: center;
-  width: 100;
-  margin-top: 30;
-  margin-left: 5;
-  margin-right: 35;
-  font-size: 18;
   cursor: pointer;
-  font-family: "Whitney-Black";
-  background-color: #7289da;
-  border-radius: 5px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  color: white;
+  width: 28;
+  height: 28;
+  margin-left: 8;
+}
+
+#controls {
+  display: flex;
+}
+
+#progress {
+  width: 320;
+  height: 4;
+  margin-top: 12;
+  margin-left: 8;
+  border-radius: 2px;
+  background-color: white;
 }
