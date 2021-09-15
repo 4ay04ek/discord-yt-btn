@@ -1,52 +1,18 @@
 var url;
 
-function withAuthRenderer(avatar, username, discriminator, token) {
+async function withAuthRenderer(avatar, username, discriminator, token) {
   document.body.innerHTML = "";
-  var style = document.getElementById("style");
-  style.setAttribute("href", "withAuth.css");
-  var maindiv = document.createElement("div");
-  maindiv.id = "maindiv";
-  document.body.appendChild(maindiv);
-  var txt = document.createElement("p");
-  txt.textContent = "Вы авторизированы как:";
-  txt.id = "txt";
-  maindiv.appendChild(txt);
-  var user = document.createElement("div");
-  user.id = "user";
-  maindiv.appendChild(user);
-  var ava = document.createElement("img");
-  ava.id = "avatar";
-  ava.src = avatar;
-  user.appendChild(ava);
-  var name = document.createElement("p");
-  name.id = "name";
-  name.textContent = username;
-  user.appendChild(name);
-  var dis = document.createElement("p");
-  dis.id = "dis";
-  dis.textContent = "#" + discriminator;
-  user.appendChild(dis);
+  var parser = new DOMParser();
+  var r = await fetch("/withAuth.html");
+  var doc = parser.parseFromString(await r.text(), "text/html");
+  doc.getElementById("avatar").src = avatar;
+  doc.getElementById("name").textContent = username;
+  doc.getElementById("dis").textContent = "#" + discriminator;
+  document.body.appendChild(doc.getElementById("maindiv"));
   chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
     var activeTab = tabs[0];
-    console.log(activeTab.url);
     if (activeTab.url.includes("youtube.com/watch")) {
-      var buttons = document.createElement("div");
-      buttons.id = "buttons";
-      maindiv.appendChild(buttons);
-      var play = document.createElement("div");
-      play.id = "play";
-      play.textContent = "Включить это на боте";
-      play.addEventListener("click", () => {
-        axios.post("http://5.228.43.243:44038/play", { url: activeTab.url, token: token });
-      });
-      buttons.appendChild(play);
-      var skip = document.createElement("div");
-      skip.id = "skip";
-      skip.textContent = "Скип";
-      skip.addEventListener("click", () => {
-        axios.post("http://5.228.43.243:44038/skip");
-      });
-      buttons.appendChild(skip);
+      document.getElementById("controls").removeAttribute("hidden");
     }
   });
 }

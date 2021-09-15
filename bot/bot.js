@@ -76,4 +76,4 @@ client.on("voiceStateUpdate", (vsold, vsnew) => {
   if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
 });
 
-client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.Ybf4aVkc92HoEF3XTr82jx5_sEk");
+client.login("");
