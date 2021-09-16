@@ -1,26 +1,31 @@
 const Discord = require("discord.js");
-const ytdl = require("ytdl-core");
+const ytdl = require("ytdl-core-discord");
 const axios = require("axios");
 
 let songs = [];
 let connection;
 var disp;
-var m_url;
+var repeatState = 0;
+var skip = false;
 
-function next() {
-  songs.shift();
-  m_url = songs[0];
-  disp = connection.play(
-    ytdl(songs[0], {
-      filter: "audioonly",
-      encoderArgs: ["-vn", "-reconnect 1", "-reconnect_streamed 1", "-reconnect_delay_max 5"],
-    })
-  );
+async function next() {
+  if (repeatState == 0 || (repeatState == 2 && skip)) songs.shift();
+  if (repeatState == 1) {
+    songs.push(songs[0]);
+    songs.shift();
+  }
+  if (songs.length > 0) {
+    disp = connection.play(await ytdl(songs[0], { highWaterMark: 1 << 25 }), { type: "opus" }).on("finish", () => {
+      next();
+    });
+  } else {
+    connection.disconnect();
+  }
+  skip = false;
 }
 
-function play(url) {
-  m_url = url;
-  disp = connection.play(ytdl(url, { filter: "audioonly" })).on("finish", () => {
+async function play(url) {
+  disp = connection.play(await ytdl(url, { highWaterMark: 1 << 25 }), { type: "opus" }).on("finish", () => {
     next();
   });
 }
@@ -30,6 +35,7 @@ module.exports.flush = () => {
 };
 
 module.exports.skip = () => {
+  skip = true;
   next();
 };
 
@@ -142,12 +148,18 @@ module.exports.runFromYT = async (client, member, arg) => {
   songs.push(arg);
 };
 
-module.exports.time = () => {
-  return disp?.streamTime;
+module.exports.state = () => {
+  if (songs.length > 0) return { time: disp?.streamTime, url: songs[0], repeatState: repeatState };
+  else return "chill";
 };
 
-module.exports.url = () => {
-  return m_url;
+module.exports.repeatState = (state) => {
+  repeatState = state;
+};
+
+module.exports.getNext = () => {
+  if (songs.length > 0) return { url: songs[0] };
+  else return "chill";
 };
 
 module.exports.name = "play";

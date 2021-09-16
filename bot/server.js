@@ -9,7 +9,7 @@ var cookies = new Map();
 app.use(express.json());
 app.use(cookieParser());
 app.use(urlencoded({ extended: true }));
-app.use(function (req, res, next) {
+app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   next();
@@ -18,11 +18,12 @@ app.use(function (req, res, next) {
 app.post("/", (req, res) => {
   console.log(req.body);
 });
+
 app.get("/redirect", (req, res) => {
   res.cookie("token", req.query.token);
   res.cookie("url", req.query.url);
   res.redirect(
-    "https://discord.com/api/oauth2/authorize?client_id=865709728428064768&redirect_uri=http%3A%2F%2Flocalhost%3A44038%2Fauth&response_type=code&scope=identify%20connections%20guilds%20messages.read"
+    "https://discord.com/api/oauth2/authorize?client_id=865709728428064768&redirect_uri=http%3A%2F%2F5.228.43.243%3A44038%2Fauth&response_type=code&scope=identify%20guilds%20messages.read"
   );
 });
 app.get("/auth", (req, res) => {
@@ -32,7 +33,7 @@ app.get("/auth", (req, res) => {
     data:
       "client_id=865709728428064768&client_secret=vhaTOf08hpAaSV-iJBO4JLRY41t-Kom2&grant_type=authorization_code&code=" +
       req.query.code +
-      "&redirect_uri=http%3A%2F%2Flocalhost%3A44038%2Fauth",
+      "&redirect_uri=http%3A%2F%2F5.228.43.243%3A44038%2Fauth",
     headers: {
       "Content-Type": "application/x-www-form-urlencoded",
     },

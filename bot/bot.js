@@ -1,13 +1,14 @@
 const Discord = require("discord.js");
 const fs = require("fs");
 var https = require("https");
-const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS] });
+const client = new Discord.Client();
 let commands = new Map();
 const server = require("./server");
 const axios = require("axios");
 const runFromYT = require("./commands/play").runFromYT;
-const time = require("./commands/play").time;
-const getUrl = require("./commands/play").url;
+const getState = require("./commands/play").state;
+const setRepeatState = require("./commands/play").repeatState;
+const next = require("./commands/play").getNext;
 const app = server.server;
 
 fs.readdir("./commands", (err, files) => {
@@ -42,7 +43,7 @@ app.post("/play", (req, res) => {
           guild_info = await client.guilds.fetch(guild.id);
         } catch (e) {}
         if (guild_info != undefined) {
-          var channels = await guild_info.channels.cache;
+          var channels = guild_info.channels.cache;
           channels.forEach((channel) => {
             if (channel.type == "voice") {
               channel.members.forEach((member) => {
@@ -58,16 +59,17 @@ app.post("/play", (req, res) => {
   });
 });
 
-app.get("/time", (req, res) => {
-  res.send({ time: time() });
+app.get("/state", (req, res) => {
+  res.send(getState());
 });
 
-app.post("/skip", (req, res) => {
+app.post("/skip", async (req, res) => {
   commands.get("skip").run();
+  res.send(next());
 });
 
-app.get("/getPlay", (req, res) => {
-  res.send({ url: getUrl() });
+app.post("/repeat", (req, res) => {
+  setRepeatState(req.body.state);
 });
 
 client.on("ready", async () => {
@@ -86,4 +88,4 @@ client.on("voiceStateUpdate", (vsold, vsnew) => {
   if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
 });
 
-client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.fKoTTZHcHnOywxan9ZJCSSGW5ZY");
+client.login("");

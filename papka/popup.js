@@ -1,4 +1,50 @@
 var url;
+var timer;
+
+function getParameterByName(name, url) {
+  name = name.replace(/[\[\]]/g, "\\$&");
+  var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+    results = regex.exec(url);
+  if (!results) return null;
+  if (!results[2]) return "";
+  return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+async function drawInfo(time, playUrl) {
+  var id = getParameterByName("v", playUrl);
+  var r = await axios.get(
+    `https://www.googleapis.com/youtube/v3/videos?id=${id}&part=snippet&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
+  );
+  document.getElementById("info").removeAttribute("hidden");
+  var imgtypes = r.data.items[0].snippet.thumbnails;
+  document.getElementById("preview").src = imgtypes[Object.keys(imgtypes)[Object.keys(imgtypes).length - 1]].url;
+  document.getElementById("title").textContent = r.data.items[0].snippet.title;
+  var r = await axios.get(
+    `https://www.googleapis.com/youtube/v3/videos?id=${id}&part=contentDetails&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
+  );
+  var r_duration = r.data.items[0].contentDetails.duration;
+  var minutes, seconds;
+  if (r_duration.includes("M")) {
+    minutes = r_duration.substring(r_duration.indexOf("PT") + 2, r_duration.indexOf("M"));
+    seconds = r_duration.substring(r_duration.indexOf("M") + 1, r_duration.indexOf("S"));
+  } else {
+    minutes = 0;
+    seconds = r_duration.substring(r_duration.indexOf("PT") + 2, r_duration.indexOf("S"));
+  }
+  time /= 1000;
+  timer = setInterval(() => {
+    document.getElementById("time").textContent =
+      moment({ m: time / 60, s: time % 60 }).format("m:ss") + " / " + moment({ m: minutes, s: seconds }).format("m:ss");
+    time += 1;
+    if (time >= parseInt(minutes * 60) + parseInt(seconds)) {
+      document.getElementById("info").setAttribute("hidden", true);
+      clearInterval(timer);
+      axios.get("http://5.228.43.243:44038/state").then((state) => {
+        if (state.data != "chill") drawInfo(state.data.time, state.data.url);
+      });
+    }
+  }, 1000);
+}
 
 async function withAuthRenderer(avatar, username, discriminator, token) {
   document.body.innerHTML = "";
@@ -9,47 +55,42 @@ async function withAuthRenderer(avatar, username, discriminator, token) {
   doc.getElementById("name").textContent = username;
   doc.getElementById("dis").textContent = "#" + discriminator;
   document.body.appendChild(doc.getElementById("maindiv"));
-  chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+  var state = await axios.get("http://5.228.43.243:44038/state");
+  var repeatState = 0;
+  if (state.data != "chill") {
+    repeatState = state.data.repeatState;
+    if (repeatState == 1) document.getElementById("repeat").src = "src/repeat.png";
+    if (repeatState == 2) document.getElementById("repeat").src = "src/repeat_single.png";
+  }
+  chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
     var activeTab = tabs[0];
     if (activeTab.url.includes("youtube.com/watch")) {
-      document.getElementById("controls").removeAttribute("hidden");
+      document.getElementById("play").removeAttribute("hidden");
       document.getElementById("play").onclick = async () => {
-        axios.post("http://localhost:44038/play", { url: activeTab.url, token: token });
-      };
-      document.getElementById("skip").onclick = () => {
-        axios.post("http://localhost:44038/skip");
+        if (state.data == "chill") drawInfo(0, activeTab.url);
+        axios.post("http://5.228.43.243:44038/play", { url: activeTab.url, token: token });
       };
     }
   });
-  var playUrl;
-  var getUrl = setInterval(async () => {
-    playUrl = (await axios.get("http://localhost:44038/getPlay")).data.url;
-  }, 1000);
-  console.log(playUrl);
-  if (playUrl) {
-    var progress = document.getElementById("progress");
-    setInterval(async () => {
-      var time = 0;
-      time = (await axios.get("http://localhost:44038/time")).data.time;
-    }, 1000);
-    var r = await axios.get(
-      `https://www.googleapis.com/youtube/v3/videos?id=${playUrl.substring(
-        32,
-        43
-      )}&part=contentDetails&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
-    );
-    var duration = r.data.items[0].contentDetails.duration;
-    var minutes = duration.substring(duration.indexOf("PT") + 2, duration.indexOf("M"));
-    var seconds = duration.substring(duration.indexOf("M") + 1, duration.indexOf("S"));
-    var r = await axios.get(
-      `https://www.googleapis.com/youtube/v3/videos?id=${playUrl.substring(
-        32,
-        43
-      )}&part=snippets&key=AIzaSyD7cuGUfSYuf2sXA2CjFsYBc5C6O1X5-mU`
-    );
-    document.getElementById("preview").src = r.data.items[0].snippet.thumbnails.maxres.url;
-    document.getElementById("title").text = r.data.items[0].snippet.title;
-  }
+  document.getElementById("repeat").onclick = () => {
+    repeatState += 1;
+    if (repeatState == 1) document.getElementById("repeat").src = "src/repeat.png";
+    if (repeatState == 2) document.getElementById("repeat").src = "src/repeat_single.png";
+    if (repeatState == 3) {
+      document.getElementById("repeat").src = "src/norepeat.png";
+      repeatState = 0;
+    }
+    axios.post("http://5.228.43.243:44038/repeat", { state: repeatState });
+  };
+  document.getElementById("skip").onclick = () => {
+    axios.post("http://5.228.43.243:44038/skip").then((res) => {
+      if (res.data != "chill") {
+        drawInfo(0, res.data.url);
+        clearInterval(timer);
+      } else document.getElementById("info").setAttribute("hidden", true);
+    });
+  };
+  if (state.data != "chill") drawInfo(state.data.time, state.data.url);
 }
 
 function withoutAuthRenderer(href) {
@@ -60,13 +101,13 @@ function withoutAuthRenderer(href) {
   authBtn.target = "_blank";
   authBtn.id = "authBtn";
   authBtn.text = "Авторизироваться с Discord";
-  chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+  chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
     var activeTab = tabs[0];
     href += "&url=" + encodeURI(activeTab.url);
     console.log(href);
     authBtn.href = href;
     authBtn.onclick = () => {
-      chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
+      chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
         var activeTab = tabs[0];
         chrome.tabs.remove(activeTab.id);
       });
@@ -82,8 +123,10 @@ function errorRender(err) {
   document.body.appendChild(errordiv);
 }
 
-var rand = function () {
-  return Math.random().toString(36).substr(2);
+var rand = function() {
+  return Math.random()
+    .toString(36)
+    .substr(2);
 };
 
 function uniqid() {
@@ -98,7 +141,7 @@ chrome.storage.sync.get("token", (res) => {
   } else token = res.token;
   axios({
     method: "get",
-    url: "http://localhost:44038/user?token=" + token,
+    url: "http://5.228.43.243:44038/user?token=" + token,
   })
     .then((res) => {
       if (res.data != "Unauthorized") {
@@ -115,7 +158,7 @@ chrome.storage.sync.get("token", (res) => {
           withAuthRenderer(ava, info.data.username, info.data.discriminator, res.data);
         });
       } else {
-        withoutAuthRenderer("http://localhost:44038/redirect?token=" + token);
+        withoutAuthRenderer("http://5.228.43.243:44038/redirect?token=" + token);
       }
     })
     .catch((err) => {

@@ -11,14 +11,20 @@
         <p id="name"></p>
         <p id="dis"></p>
       </div>
-      <div id="info">
-        <img id = "preview"></img>
-        <div id = "title"></div>
+      <div id = "container">
+        <div hidden id="info">
+          <img id = "preview"></img>
+          <div id = "title"></div>
+          <div id = "time">0:00 / 0:00</div>
+        </div>
       </div>
-      <div hidden id="controls">
-        <img id = "play" src = "src/play-256.png"></img>
+      <div style="display: flex;">
+        <div style="width: 25; height: 25">
+          <img hidden id = "play" src = "src/play.png"></img>
+        </div>
         <div id = "progress"></div>
-        <img id = "skip" src = "src/media-skip-forward-512.png"></img>
+        <img id = "repeat" src = "src/norepeat.png"></img>
+        <img id = "skip" src = "src/skip.png"></img>
       </div>
     </div>
   </body>
