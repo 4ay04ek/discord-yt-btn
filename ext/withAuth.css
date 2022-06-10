@@ -41,6 +41,14 @@ body {
   margin-left: 5;
 }
 
+#queue {
+  cursor: pointer;
+  width: 25;
+  height: 25;
+  position: absolute;
+  margin-top: 52;
+}
+
 #dis {
   font-size: 10;
   margin-top: 16;
@@ -50,9 +58,10 @@ body {
 }
 
 #preview {
+  cursor: pointer;
   position: absolute;
   margin-top: 18;
-  margin-left: 10;
+  margin-left: 30;
   width: 168;
   height: 94;
 }
@@ -63,7 +72,7 @@ body {
   font-size: 18;
   margin-top: 25;
   margin-right: 15;
-  margin-left: 190;
+  margin-left: 210;
 }
 
 #time {
@@ -107,11 +116,58 @@ body {
   margin-top: 2;
 }
 
-#progress {
+#progress_bar {
+  cursor: pointer;
   width: 290;
   height: 4;
   margin-top: 13;
   margin-left: 8;
   border-radius: 2px;
+  background-color: rgb(150, 150, 150);
+}
+
+#progress {
+  width: 0;
+  height: 100%;
+  border-radius: 2px;
   background-color: white;
+}
+
+#list {
+  position: absolute;
+  width: 90%;
+  height: 50%;
+  margin-left: 30;
+  overflow: scroll;
+}
+
+#list::-webkit-scrollbar {
+  width: 5px;
+}
+
+#list::-webkit-scrollbar-thumb {
+  background-color: #323435;
+  border-radius: 3px;
+}
+
+#list::-webkit-scrollbar-corner {
+  display: none;
+}
+
+#item {
+  display: flex;
+  margin-top: 5;
+}
+
+#m-preview {
+  cursor: pointer;
+  width: 84;
+  height: 47;
+}
+
+#m-title {
+  color: white;
+  font-size: 16;
+  margin-left: 8;
+  margin-top: 10;
 }

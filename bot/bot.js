@@ -6,9 +6,12 @@ let commands = new Map();
 const server = require("./server");
 const axios = require("axios");
 const runFromYT = require("./commands/play").runFromYT;
+const setTime = require("./commands/play").setTime;
 const getState = require("./commands/play").state;
+const getQueue = require("./commands/play").queue;
 const setRepeatState = require("./commands/play").repeatState;
 const next = require("./commands/play").getNext;
+const log = require('./errorHandler').log;
 const app = server.server;
 
 fs.readdir("./commands", (err, files) => {
@@ -41,13 +44,14 @@ app.post("/play", (req, res) => {
         var guild_info;
         try {
           guild_info = await client.guilds.fetch(guild.id);
-        } catch (e) {}
+        } catch (e) {log("E", e);}
         if (guild_info != undefined) {
           var channels = guild_info.channels.cache;
           channels.forEach((channel) => {
             if (channel.type == "voice") {
               channel.members.forEach((member) => {
                 if (member.user.id == user) {
+                  log("I", "Trying to play: " + req.body.url);
                   runFromYT(client, member, req.body.url);
                 }
               });
@@ -55,12 +59,24 @@ app.post("/play", (req, res) => {
           });
         }
       });
+    }).catch(e => {
+      log("E", e);
     });
+  }).catch(e => {
+    log("E", e);
   });
+});
+
+app.post("/playtime", (req, res) => {
+  setTime(req.body.time);
 });
 
 app.get("/state", (req, res) => {
   res.send(getState());
+});
+
+app.get("/queue", (req, res) => {
+  res.send(getQueue());
 });
 
 app.post("/skip", async (req, res) => {
@@ -78,6 +94,11 @@ client.on("ready", async () => {
 });
 
 client.on("message", async (msg) => {
+  if (msg.content == "..fix"){
+     msg.guild.members.fetch(client.user.id).then(bot => {
+        bot.setNickname("cringebot");
+     })
+  }
   if (msg.content.startsWith("..")) {
     let data = msg.content.slice(2).split(" ");
     let args = data.slice(1).join(" ");
@@ -85,7 +106,9 @@ client.on("message", async (msg) => {
   }
 });
 client.on("voiceStateUpdate", (vsold, vsnew) => {
-  if (vsold.channel) if (vsold.channel.members.size == 1) vsold.channel.leave();
+  if (vsold.channel)
+    if (vsold.channel.members.size == 1) {
+      vsold.channel.leave();
+    }
 });
-
-client.login("");
+client.login("ODY1NzA5NzI4NDI4MDY0NzY4.YPH9Aw.a6offFpVjKkEVvR3FVaEpy86j0o");

@@ -1,0 +1,1710 @@
+[I](19.11.2021|21:0:35): New user es0nvatfgukrwx12bfp8enhfktwyekmfo from ::ffff:5.228.43.243
+[I](19.11.2021|21:16:12): New user gtxxyc1wp54pixzktacjypob6kyjsep from ::ffff:109.252.47.154
+[I](23.11.2021|12:46:46): Trying to play: https://music.youtube.com/watch?v=SCZC1KO_AWk&list=RDAMVMSCZC1KO_AWk
+[E](23.11.2021|12:46:46): DiscordAPIError: Missing Access
+[E](23.11.2021|12:46:46): DiscordAPIError: Missing Access
+[E](23.11.2021|12:46:46): DiscordAPIError: Missing Access
+[E](23.11.2021|12:46:46): DiscordAPIError: Missing Access
+[E](23.11.2021|12:46:46): DiscordAPIError: Missing Access
+[E](23.11.2021|12:46:46): DiscordAPIError: Missing Access
+[I](23.11.2021|12:49:48): Trying to play: https://music.youtube.com/watch?v=lAFxPBsxzfk&list=RDAMVMlAFxPBsxzfk
+[E](23.11.2021|12:49:49): DiscordAPIError: Missing Access
+[E](23.11.2021|12:49:49): DiscordAPIError: Missing Access
+[E](23.11.2021|12:49:49): DiscordAPIError: Missing Access
+[E](23.11.2021|12:49:49): DiscordAPIError: Missing Access
+[E](23.11.2021|12:49:49): DiscordAPIError: Missing Access
+[E](23.11.2021|12:49:49): DiscordAPIError: Missing Access
+[I](23.11.2021|12:52:53): Trying to play: https://music.youtube.com/watch?v=_-YPl6JOEJs&list=RDAMVM_-YPl6JOEJs
+[E](23.11.2021|12:52:53): DiscordAPIError: Missing Access
+[E](23.11.2021|12:52:53): DiscordAPIError: Missing Access
+[E](23.11.2021|12:52:53): DiscordAPIError: Missing Access
+[E](23.11.2021|12:52:53): DiscordAPIError: Missing Access
+[E](23.11.2021|12:52:53): DiscordAPIError: Missing Access
+[E](23.11.2021|12:52:53): DiscordAPIError: Missing Access
+[I](23.11.2021|14:23:18): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:23:19): DiscordAPIError: Missing Access
+[E](23.11.2021|14:23:19): DiscordAPIError: Missing Access
+[E](23.11.2021|14:23:19): DiscordAPIError: Missing Access
+[E](23.11.2021|14:23:19): DiscordAPIError: Missing Access
+[E](23.11.2021|14:23:19): DiscordAPIError: Missing Access
+[I](23.11.2021|14:25:3): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:25:3): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:3): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:3): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:3): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:3): DiscordAPIError: Missing Access
+[I](23.11.2021|14:25:48): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:25:48): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:48): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:48): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:48): DiscordAPIError: Missing Access
+[E](23.11.2021|14:25:48): DiscordAPIError: Missing Access
+[I](23.11.2021|14:30:23): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:30:24): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:24): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:24): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:24): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:24): DiscordAPIError: Missing Access
+[I](23.11.2021|14:30:53): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:30:53): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:53): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:53): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:53): DiscordAPIError: Missing Access
+[E](23.11.2021|14:30:53): DiscordAPIError: Missing Access
+[I](23.11.2021|14:31:33): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:31:33): DiscordAPIError: Missing Access
+[E](23.11.2021|14:31:33): DiscordAPIError: Missing Access
+[E](23.11.2021|14:31:33): DiscordAPIError: Missing Access
+[E](23.11.2021|14:31:33): DiscordAPIError: Missing Access
+[E](23.11.2021|14:31:33): DiscordAPIError: Missing Access
+[I](23.11.2021|14:38:37): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:38:37): DiscordAPIError: Missing Access
+[E](23.11.2021|14:38:37): DiscordAPIError: Missing Access
+[E](23.11.2021|14:38:37): DiscordAPIError: Missing Access
+[E](23.11.2021|14:38:37): DiscordAPIError: Missing Access
+[E](23.11.2021|14:38:37): DiscordAPIError: Missing Access
+[I](23.11.2021|14:46:38): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:46:38): DiscordAPIError: Missing Access
+[E](23.11.2021|14:46:38): DiscordAPIError: Missing Access
+[E](23.11.2021|14:46:38): DiscordAPIError: Missing Access
+[E](23.11.2021|14:46:38): DiscordAPIError: Missing Access
+[E](23.11.2021|14:46:38): DiscordAPIError: Missing Access
+[I](23.11.2021|14:48:5): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:48:5): DiscordAPIError: Missing Access
+[E](23.11.2021|14:48:5): DiscordAPIError: Missing Access
+[E](23.11.2021|14:48:5): DiscordAPIError: Missing Access
+[E](23.11.2021|14:48:5): DiscordAPIError: Missing Access
+[E](23.11.2021|14:48:5): DiscordAPIError: Missing Access
+[I](23.11.2021|14:50:56): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:50:56): DiscordAPIError: Missing Access
+[E](23.11.2021|14:50:56): DiscordAPIError: Missing Access
+[E](23.11.2021|14:50:56): DiscordAPIError: Missing Access
+[E](23.11.2021|14:50:56): DiscordAPIError: Missing Access
+[E](23.11.2021|14:50:56): DiscordAPIError: Missing Access
+[I](23.11.2021|14:52:59): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:52:59): DiscordAPIError: Missing Access
+[E](23.11.2021|14:52:59): DiscordAPIError: Missing Access
+[E](23.11.2021|14:52:59): DiscordAPIError: Missing Access
+[E](23.11.2021|14:52:59): DiscordAPIError: Missing Access
+[E](23.11.2021|14:52:59): DiscordAPIError: Missing Access
+[I](23.11.2021|14:54:14): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|14:54:14): DiscordAPIError: Missing Access
+[E](23.11.2021|14:54:14): DiscordAPIError: Missing Access
+[E](23.11.2021|14:54:14): DiscordAPIError: Missing Access
+[E](23.11.2021|14:54:14): DiscordAPIError: Missing Access
+[E](23.11.2021|14:54:15): DiscordAPIError: Missing Access
+[I](23.11.2021|15:1:48): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:1:48): DiscordAPIError: Missing Access
+[E](23.11.2021|15:1:48): DiscordAPIError: Missing Access
+[E](23.11.2021|15:1:48): DiscordAPIError: Missing Access
+[E](23.11.2021|15:1:48): DiscordAPIError: Missing Access
+[E](23.11.2021|15:1:48): DiscordAPIError: Missing Access
+[I](23.11.2021|15:2:59): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:2:59): DiscordAPIError: Missing Access
+[E](23.11.2021|15:2:59): DiscordAPIError: Missing Access
+[E](23.11.2021|15:2:59): DiscordAPIError: Missing Access
+[E](23.11.2021|15:2:59): DiscordAPIError: Missing Access
+[E](23.11.2021|15:3:0): DiscordAPIError: Missing Access
+[I](23.11.2021|15:4:29): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:4:29): DiscordAPIError: Missing Access
+[E](23.11.2021|15:4:30): DiscordAPIError: Missing Access
+[E](23.11.2021|15:4:30): DiscordAPIError: Missing Access
+[E](23.11.2021|15:4:30): DiscordAPIError: Missing Access
+[E](23.11.2021|15:4:30): DiscordAPIError: Missing Access
+[I](23.11.2021|15:7:33): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:7:33): Error [VOICE_JOIN_CHANNEL]: You do not have permission to join this voice channel.
+[E](23.11.2021|15:7:33): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:33): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:33): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:33): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:33): DiscordAPIError: Missing Access
+[I](23.11.2021|15:7:49): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:7:50): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:50): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:50): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:50): DiscordAPIError: Missing Access
+[E](23.11.2021|15:7:50): DiscordAPIError: Missing Access
+[I](23.11.2021|15:14:43): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:14:43): DiscordAPIError: Missing Access
+[E](23.11.2021|15:14:43): DiscordAPIError: Missing Access
+[E](23.11.2021|15:14:43): DiscordAPIError: Missing Access
+[E](23.11.2021|15:14:43): DiscordAPIError: Missing Access
+[E](23.11.2021|15:14:44): DiscordAPIError: Missing Access
+[I](23.11.2021|15:15:57): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:15:57): DiscordAPIError: Missing Access
+[E](23.11.2021|15:15:57): DiscordAPIError: Missing Access
+[E](23.11.2021|15:15:57): DiscordAPIError: Missing Access
+[E](23.11.2021|15:15:57): DiscordAPIError: Missing Access
+[E](23.11.2021|15:15:57): DiscordAPIError: Missing Access
+[I](23.11.2021|15:17:18): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:17:18): DiscordAPIError: Missing Access
+[E](23.11.2021|15:17:18): DiscordAPIError: Missing Access
+[E](23.11.2021|15:17:19): DiscordAPIError: Missing Access
+[E](23.11.2021|15:17:19): DiscordAPIError: Missing Access
+[E](23.11.2021|15:17:19): DiscordAPIError: Missing Access
+[I](23.11.2021|15:20:28): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:20:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:20:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:20:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:20:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:20:28): DiscordAPIError: Missing Access
+[I](23.11.2021|15:21:28): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:21:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:21:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:21:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:21:28): DiscordAPIError: Missing Access
+[E](23.11.2021|15:21:28): DiscordAPIError: Missing Access
+[I](23.11.2021|15:22:8): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:22:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:22:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:22:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:22:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:22:8): DiscordAPIError: Missing Access
+[I](23.11.2021|15:26:8): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:26:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:26:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:26:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:26:8): DiscordAPIError: Missing Access
+[E](23.11.2021|15:26:8): DiscordAPIError: Missing Access
+[I](23.11.2021|15:27:3): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:27:3): DiscordAPIError: Missing Access
+[E](23.11.2021|15:27:3): DiscordAPIError: Missing Access
+[E](23.11.2021|15:27:3): DiscordAPIError: Missing Access
+[E](23.11.2021|15:27:3): DiscordAPIError: Missing Access
+[E](23.11.2021|15:27:3): DiscordAPIError: Missing Access
+[I](23.11.2021|15:28:17): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:28:17): DiscordAPIError: Missing Access
+[E](23.11.2021|15:28:17): DiscordAPIError: Missing Access
+[E](23.11.2021|15:28:17): DiscordAPIError: Missing Access
+[E](23.11.2021|15:28:17): DiscordAPIError: Missing Access
+[E](23.11.2021|15:28:18): DiscordAPIError: Missing Access
+[I](23.11.2021|15:57:58): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:57:58): DiscordAPIError: Missing Access
+[E](23.11.2021|15:57:58): DiscordAPIError: Missing Access
+[E](23.11.2021|15:57:58): DiscordAPIError: Missing Access
+[E](23.11.2021|15:57:58): DiscordAPIError: Missing Access
+[E](23.11.2021|15:57:59): DiscordAPIError: Missing Access
+[I](23.11.2021|15:58:52): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|15:58:53): DiscordAPIError: Missing Access
+[E](23.11.2021|15:58:53): DiscordAPIError: Missing Access
+[E](23.11.2021|15:58:53): DiscordAPIError: Missing Access
+[E](23.11.2021|15:58:53): DiscordAPIError: Missing Access
+[E](23.11.2021|15:58:53): DiscordAPIError: Missing Access
+[I](23.11.2021|16:0:6): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:0:6): DiscordAPIError: Missing Access
+[E](23.11.2021|16:0:6): DiscordAPIError: Missing Access
+[E](23.11.2021|16:0:6): DiscordAPIError: Missing Access
+[E](23.11.2021|16:0:6): DiscordAPIError: Missing Access
+[E](23.11.2021|16:0:6): DiscordAPIError: Missing Access
+[I](23.11.2021|16:1:2): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:1:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:3): DiscordAPIError: Missing Access
+[I](23.11.2021|16:1:33): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:1:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:33): DiscordAPIError: Missing Access
+[I](23.11.2021|16:1:39): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:1:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:1:39): DiscordAPIError: Missing Access
+[I](23.11.2021|16:3:1): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:3:1): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:1): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:1): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:1): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:1): DiscordAPIError: Missing Access
+[I](23.11.2021|16:3:39): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:3:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:3:39): DiscordAPIError: Missing Access
+[I](23.11.2021|16:11:10): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:11:11): DiscordAPIError: Missing Access
+[E](23.11.2021|16:11:11): DiscordAPIError: Missing Access
+[E](23.11.2021|16:11:11): DiscordAPIError: Missing Access
+[E](23.11.2021|16:11:11): DiscordAPIError: Missing Access
+[E](23.11.2021|16:11:11): DiscordAPIError: Missing Access
+[I](23.11.2021|16:15:21): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:15:21): DiscordAPIError: Missing Access
+[E](23.11.2021|16:15:21): DiscordAPIError: Missing Access
+[E](23.11.2021|16:15:21): DiscordAPIError: Missing Access
+[E](23.11.2021|16:15:21): DiscordAPIError: Missing Access
+[E](23.11.2021|16:15:21): DiscordAPIError: Missing Access
+[I](23.11.2021|16:16:9): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:16:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:16:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:16:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:16:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:16:9): DiscordAPIError: Missing Access
+[I](23.11.2021|16:17:16): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:17:16): DiscordAPIError: Missing Access
+[E](23.11.2021|16:17:16): DiscordAPIError: Missing Access
+[E](23.11.2021|16:17:16): DiscordAPIError: Missing Access
+[E](23.11.2021|16:17:16): DiscordAPIError: Missing Access
+[E](23.11.2021|16:17:16): DiscordAPIError: Missing Access
+[I](23.11.2021|16:18:41): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:18:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:18:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:18:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:18:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:18:41): DiscordAPIError: Missing Access
+[I](23.11.2021|16:21:30): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:21:30): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:30): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:30): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:30): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:30): DiscordAPIError: Missing Access
+[I](23.11.2021|16:21:37): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:21:37): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:37): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:37): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:37): DiscordAPIError: Missing Access
+[E](23.11.2021|16:21:37): DiscordAPIError: Missing Access
+[I](23.11.2021|16:23:8): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:23:8): DiscordAPIError: Missing Access
+[E](23.11.2021|16:23:8): DiscordAPIError: Missing Access
+[E](23.11.2021|16:23:8): DiscordAPIError: Missing Access
+[E](23.11.2021|16:23:8): DiscordAPIError: Missing Access
+[E](23.11.2021|16:23:8): DiscordAPIError: Missing Access
+[I](23.11.2021|16:24:32): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:24:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:24:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:24:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:24:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:24:32): DiscordAPIError: Missing Access
+[I](23.11.2021|16:27:44): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:27:44): DiscordAPIError: Missing Access
+[E](23.11.2021|16:27:44): DiscordAPIError: Missing Access
+[E](23.11.2021|16:27:44): DiscordAPIError: Missing Access
+[E](23.11.2021|16:27:44): DiscordAPIError: Missing Access
+[E](23.11.2021|16:27:44): DiscordAPIError: Missing Access
+[I](23.11.2021|16:28:31): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:28:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:28:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:28:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:28:32): DiscordAPIError: Missing Access
+[E](23.11.2021|16:28:32): DiscordAPIError: Missing Access
+[I](23.11.2021|16:29:2): Trying to play: https://www.youtube.com/watch?v=dnlU6h5SjQA
+[E](23.11.2021|16:29:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:29:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:29:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:29:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:29:3): DiscordAPIError: Missing Access
+[I](23.11.2021|16:43:41): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:43:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:43:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:43:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:43:41): DiscordAPIError: Missing Access
+[E](23.11.2021|16:43:41): DiscordAPIError: Missing Access
+[I](23.11.2021|16:44:7): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:44:7): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:7): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:7): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:7): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:8): DiscordAPIError: Missing Access
+[I](23.11.2021|16:44:52): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:44:52): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:52): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:52): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:52): DiscordAPIError: Missing Access
+[E](23.11.2021|16:44:52): DiscordAPIError: Missing Access
+[I](23.11.2021|16:46:57): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:46:57): DiscordAPIError: Missing Access
+[E](23.11.2021|16:46:57): DiscordAPIError: Missing Access
+[E](23.11.2021|16:46:57): DiscordAPIError: Missing Access
+[E](23.11.2021|16:46:57): DiscordAPIError: Missing Access
+[E](23.11.2021|16:46:57): DiscordAPIError: Missing Access
+[I](23.11.2021|16:48:13): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:48:14): DiscordAPIError: Missing Access
+[E](23.11.2021|16:48:14): DiscordAPIError: Missing Access
+[E](23.11.2021|16:48:14): DiscordAPIError: Missing Access
+[E](23.11.2021|16:48:14): DiscordAPIError: Missing Access
+[E](23.11.2021|16:48:14): DiscordAPIError: Missing Access
+[I](23.11.2021|16:49:45): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:49:46): DiscordAPIError: Missing Access
+[E](23.11.2021|16:49:46): DiscordAPIError: Missing Access
+[E](23.11.2021|16:49:46): DiscordAPIError: Missing Access
+[E](23.11.2021|16:49:46): DiscordAPIError: Missing Access
+[E](23.11.2021|16:49:46): DiscordAPIError: Missing Access
+[I](23.11.2021|16:51:0): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:51:0): DiscordAPIError: Missing Access
+[E](23.11.2021|16:51:0): DiscordAPIError: Missing Access
+[E](23.11.2021|16:51:0): DiscordAPIError: Missing Access
+[E](23.11.2021|16:51:0): DiscordAPIError: Missing Access
+[E](23.11.2021|16:51:0): DiscordAPIError: Missing Access
+[I](23.11.2021|16:52:39): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:52:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:52:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:52:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:52:39): DiscordAPIError: Missing Access
+[E](23.11.2021|16:52:39): DiscordAPIError: Missing Access
+[I](23.11.2021|16:53:9): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:53:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:9): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:9): DiscordAPIError: Missing Access
+[I](23.11.2021|16:53:33): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:53:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:33): DiscordAPIError: Missing Access
+[E](23.11.2021|16:53:33): DiscordAPIError: Missing Access
+[I](23.11.2021|16:54:23): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:54:23): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:23): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:23): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:23): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:23): DiscordAPIError: Missing Access
+[I](23.11.2021|16:54:25): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:54:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:25): DiscordAPIError: Missing Access
+[I](23.11.2021|16:54:31): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:54:31): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:31): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:31): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:31): DiscordAPIError: Missing Access
+[E](23.11.2021|16:54:32): DiscordAPIError: Missing Access
+[I](23.11.2021|16:56:3): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:56:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:3): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:3): DiscordAPIError: Missing Access
+[I](23.11.2021|16:56:40): Trying to play: https://www.youtube.com/watch?v=h8JJlYUTsnw
+[E](23.11.2021|16:56:40): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:40): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:40): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:40): DiscordAPIError: Missing Access
+[E](23.11.2021|16:56:40): DiscordAPIError: Missing Access
+[I](23.11.2021|16:58:25): Trying to play: https://www.youtube.com/watch?v=8LGXScq5XBs&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=20
+[E](23.11.2021|16:58:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:58:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:58:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:58:25): DiscordAPIError: Missing Access
+[E](23.11.2021|16:58:25): DiscordAPIError: Missing Access
+[I](23.11.2021|17:1:2): Trying to play: https://www.youtube.com/watch?v=8LGXScq5XBs&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=20
+[E](23.11.2021|17:1:2): DiscordAPIError: Missing Access
+[E](23.11.2021|17:1:2): DiscordAPIError: Missing Access
+[E](23.11.2021|17:1:2): DiscordAPIError: Missing Access
+[E](23.11.2021|17:1:2): DiscordAPIError: Missing Access
+[E](23.11.2021|17:1:2): DiscordAPIError: Missing Access
+[I](23.11.2021|17:4:18): Trying to play: https://www.youtube.com/watch?v=8LGXScq5XBs&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=20
+[E](23.11.2021|17:4:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:18): DiscordAPIError: Missing Access
+[I](23.11.2021|17:4:59): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:4:59): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:59): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:59): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:59): DiscordAPIError: Missing Access
+[E](23.11.2021|17:4:59): DiscordAPIError: Missing Access
+[I](23.11.2021|17:11:3): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:11:3): DiscordAPIError: Missing Access
+[E](23.11.2021|17:11:3): DiscordAPIError: Missing Access
+[E](23.11.2021|17:11:3): DiscordAPIError: Missing Access
+[E](23.11.2021|17:11:3): DiscordAPIError: Missing Access
+[E](23.11.2021|17:11:3): DiscordAPIError: Missing Access
+[I](23.11.2021|17:12:33): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:12:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:12:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:12:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:12:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:12:33): DiscordAPIError: Missing Access
+[I](23.11.2021|17:13:55): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:13:55): DiscordAPIError: Missing Access
+[E](23.11.2021|17:13:55): DiscordAPIError: Missing Access
+[E](23.11.2021|17:13:55): DiscordAPIError: Missing Access
+[E](23.11.2021|17:13:55): DiscordAPIError: Missing Access
+[E](23.11.2021|17:13:55): DiscordAPIError: Missing Access
+[I](23.11.2021|17:14:33): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:14:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:14:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:14:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:14:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:14:33): DiscordAPIError: Missing Access
+[I](23.11.2021|17:15:8): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:15:8): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:8): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:8): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:8): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:8): DiscordAPIError: Missing Access
+[I](23.11.2021|17:15:33): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:15:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:33): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:33): DiscordAPIError: Missing Access
+[I](23.11.2021|17:15:41): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:15:41): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:41): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:41): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:41): DiscordAPIError: Missing Access
+[E](23.11.2021|17:15:41): DiscordAPIError: Missing Access
+[I](23.11.2021|17:17:18): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:17:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:18): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:18): DiscordAPIError: Missing Access
+[I](23.11.2021|17:17:37): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=2
+[E](23.11.2021|17:17:37): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:37): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:37): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:37): DiscordAPIError: Missing Access
+[E](23.11.2021|17:17:37): DiscordAPIError: Missing Access
+[I](23.11.2021|17:20:0): New user 8nu3bxdpsc45rlioj0gt2rnz7t8qv0ql from ::ffff:5.228.43.243
+[I](23.11.2021|17:20:45): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0
+[E](23.11.2021|17:20:45): DiscordAPIError: Missing Access
+[E](23.11.2021|17:20:45): DiscordAPIError: Missing Access
+[E](23.11.2021|17:20:45): DiscordAPIError: Missing Access
+[E](23.11.2021|17:20:45): DiscordAPIError: Missing Access
+[E](23.11.2021|17:20:45): DiscordAPIError: Missing Access
+[I](23.11.2021|17:28:42): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0
+[E](23.11.2021|17:28:42): DiscordAPIError: Missing Access
+[E](23.11.2021|17:28:42): DiscordAPIError: Missing Access
+[E](23.11.2021|17:28:42): DiscordAPIError: Missing Access
+[E](23.11.2021|17:28:42): DiscordAPIError: Missing Access
+[E](23.11.2021|17:28:42): DiscordAPIError: Missing Access
+[I](23.11.2021|17:32:57): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0
+[E](23.11.2021|17:32:57): DiscordAPIError: Missing Access
+[E](23.11.2021|17:32:57): DiscordAPIError: Missing Access
+[E](23.11.2021|17:32:57): DiscordAPIError: Missing Access
+[E](23.11.2021|17:32:57): DiscordAPIError: Missing Access
+[E](23.11.2021|17:32:57): DiscordAPIError: Missing Access
+[I](23.11.2021|17:36:11): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0
+[E](23.11.2021|17:36:11): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:11): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:11): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:11): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:11): DiscordAPIError: Missing Access
+[I](23.11.2021|17:36:37): Trying to play: https://www.youtube.com/watch?v=FvcHVo-49b0
+[E](23.11.2021|17:36:38): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:38): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:38): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:38): DiscordAPIError: Missing Access
+[E](23.11.2021|17:36:38): DiscordAPIError: Missing Access
+[I](26.11.2021|8:45:56): Trying to play: https://www.youtube.com/watch?v=DWtbMzghaMM
+[E](26.11.2021|8:45:56): DiscordAPIError: Missing Access
+[E](26.11.2021|8:45:56): DiscordAPIError: Missing Access
+[E](26.11.2021|8:45:56): DiscordAPIError: Missing Access
+[E](26.11.2021|8:45:56): DiscordAPIError: Missing Access
+[I](26.11.2021|13:56:10): Trying to play: https://www.youtube.com/watch?v=kyvDARWmXWs&list=PLY7i52H15d6lT9cKqF27TVh-yfrXVOMbr&index=19
+[E](26.11.2021|13:56:10): DiscordAPIError: Missing Access
+[E](26.11.2021|13:56:10): DiscordAPIError: Missing Access
+[E](26.11.2021|13:56:10): DiscordAPIError: Missing Access
+[E](26.11.2021|13:56:10): DiscordAPIError: Missing Access
+[I](26.11.2021|13:59:35): Trying to play: https://www.youtube.com/watch?v=i53Ies2CeI4&list=PLY7i52H15d6lT9cKqF27TVh-yfrXVOMbr&index=6
+[E](26.11.2021|13:59:35): DiscordAPIError: Missing Access
+[E](26.11.2021|13:59:35): DiscordAPIError: Missing Access
+[E](26.11.2021|13:59:35): DiscordAPIError: Missing Access
+[E](26.11.2021|13:59:35): DiscordAPIError: Missing Access
+[I](26.11.2021|14:3:17): Trying to play: https://www.youtube.com/watch?v=1PUsih-V9P4&list=PLY7i52H15d6lT9cKqF27TVh-yfrXVOMbr&index=3
+[E](26.11.2021|14:3:17): DiscordAPIError: Missing Access
+[E](26.11.2021|14:3:17): DiscordAPIError: Missing Access
+[E](26.11.2021|14:3:17): DiscordAPIError: Missing Access
+[E](26.11.2021|14:3:17): DiscordAPIError: Missing Access
+[I](26.11.2021|14:5:35): Trying to play: https://www.youtube.com/watch?v=LD3baPUqa2E&list=PLY7i52H15d6lT9cKqF27TVh-yfrXVOMbr&index=4
+[E](26.11.2021|14:5:35): DiscordAPIError: Missing Access
+[E](26.11.2021|14:5:35): DiscordAPIError: Missing Access
+[E](26.11.2021|14:5:35): DiscordAPIError: Missing Access
+[E](26.11.2021|14:5:35): DiscordAPIError: Missing Access
+[I](27.11.2021|11:6:39): Trying to play: https://www.youtube.com/watch?v=eXvPgDmMLDk
+[E](27.11.2021|11:6:39): DiscordAPIError: Missing Access
+[E](27.11.2021|11:6:39): DiscordAPIError: Missing Access
+[E](27.11.2021|11:6:39): DiscordAPIError: Missing Access
+[E](27.11.2021|11:6:39): DiscordAPIError: Missing Access
+[I](14.12.2021|17:50:4): New user hy1zye2xfwgdc603dejrudouacpwitxjt from ::ffff:109.252.47.154
+[I](14.12.2021|17:50:15): Trying to play: https://www.youtube.com/watch?v=mPu0CEZ_wqo
+[E](14.12.2021|17:50:16): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:16): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:16): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:16): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:16): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:30): Error [VOICE_CONNECTION_TIMEOUT]: Connection not established within 15 seconds.
+[I](14.12.2021|17:50:39): Trying to play: https://www.youtube.com/watch?v=mPu0CEZ_wqo
+[E](14.12.2021|17:50:39): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:39): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:39): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:39): DiscordAPIError: Missing Access
+[E](14.12.2021|17:50:40): DiscordAPIError: Missing Access
+[I](14.12.2021|17:51:34): Trying to play: https://www.youtube.com/watch?v=mPu0CEZ_wqo
+[E](14.12.2021|17:51:35): DiscordAPIError: Missing Access
+[E](14.12.2021|17:51:35): DiscordAPIError: Missing Access
+[E](14.12.2021|17:51:35): DiscordAPIError: Missing Access
+[E](14.12.2021|17:51:35): DiscordAPIError: Missing Access
+[E](14.12.2021|17:51:35): DiscordAPIError: Missing Access
+[I](14.12.2021|17:52:11): User's 8nu3bxdpsc45rlioj0gt2rnz7t8qv0ql access_token refreshed
+[I](14.12.2021|17:52:11): User's 8nu3bxdpsc45rlioj0gt2rnz7t8qv0ql access_token refreshed
+[I](14.12.2021|17:52:11): User's 8nu3bxdpsc45rlioj0gt2rnz7t8qv0ql access_token refreshed
+[E](14.12.2021|17:52:11): Error: Request failed with status code 400
+[I](14.12.2021|17:52:14): Trying to play: https://www.youtube.com/watch?v=mPu0CEZ_wqo
+[E](14.12.2021|17:52:14): DiscordAPIError: Missing Access
+[E](14.12.2021|17:52:14): DiscordAPIError: Missing Access
+[E](14.12.2021|17:52:14): DiscordAPIError: Missing Access
+[E](14.12.2021|17:52:14): DiscordAPIError: Missing Access
+[E](14.12.2021|17:52:14): DiscordAPIError: Missing Access
+[I](01.06.2022|23:57:29): New user j5xvidjewsqyiizxyiyzl47a87mows0z from ::ffff:5.228.43.243
+[I](01.06.2022|23:57:53): Trying to play: https://www.youtube.com/watch?v=kRf2lFY8LoM
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:57:53): DiscordAPIError: Missing Access
+[I](01.06.2022|23:58:53): Trying to play: https://www.youtube.com/watch?v=kRf2lFY8LoM
+[E](01.06.2022|23:58:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:58:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:58:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:58:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:58:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:58:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:58:53): DiscordAPIError: Missing Access
+[E](01.06.2022|23:58:54): DiscordAPIError: Missing Access
+[I](02.06.2022|0:2:46): Trying to play: https://www.youtube.com/watch?v=kRf2lFY8LoM
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[E](02.06.2022|0:2:47): DiscordAPIError: Missing Access
+[I](02.06.2022|0:3:10): Trying to play: https://www.youtube.com/watch?v=oGgS6en5DAc&list=PL0vdAQFfFJvCOJR9nixp_03v48AfXXiqP&index=6
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[E](02.06.2022|0:3:10): DiscordAPIError: Missing Access
+[I](02.06.2022|0:4:29): Trying to play: https://www.youtube.com/watch?v=uJrY5YthKOs&list=PL-45ltoBRbSXG-ND1qC_02v9rYyCU27c8&index=1
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[E](02.06.2022|0:4:29): DiscordAPIError: Missing Access
+[I](03.06.2022|22:7:37): Trying to play: https://www.youtube.com/watch?v=FHWgDichnMo&list=PL0vdAQFfFJvCqgDCK-jdYYB9gFMzqnLTL&index=24
+[E](03.06.2022|22:7:37): DiscordAPIError: Missing Access
+[E](03.06.2022|22:7:37): DiscordAPIError: Missing Access
+[E](03.06.2022|22:7:37): DiscordAPIError: Missing Access
+[E](03.06.2022|22:7:37): DiscordAPIError: Missing Access
+[E](03.06.2022|22:7:37): DiscordAPIError: Missing Access
+[E](03.06.2022|22:7:37): DiscordAPIError: Missing Access
+[E](03.06.2022|22:7:37): DiscordAPIError: Missing Access
+[I](03.06.2022|23:21:1): Trying to play: https://www.youtube.com/watch?v=clhedahJN6s
+[E](03.06.2022|23:21:1): DiscordAPIError: Missing Access
+[E](03.06.2022|23:21:1): DiscordAPIError: Missing Access
+[E](03.06.2022|23:21:1): DiscordAPIError: Missing Access
+[E](03.06.2022|23:21:1): DiscordAPIError: Missing Access
+[E](03.06.2022|23:21:1): DiscordAPIError: Missing Access
+[E](03.06.2022|23:21:1): DiscordAPIError: Missing Access
+[E](03.06.2022|23:21:1): DiscordAPIError: Missing Access
+[I](03.06.2022|23:29:46): Trying to play: https://www.youtube.com/watch?v=kRf2lFY8LoM&list=PL0vdAQFfFJvAKGlwqjdqcNdbVwRvMUPJa&index=16
+[E](03.06.2022|23:29:46): DiscordAPIError: Missing Access
+[E](03.06.2022|23:29:46): DiscordAPIError: Missing Access
+[E](03.06.2022|23:29:46): DiscordAPIError: Missing Access
+[E](03.06.2022|23:29:46): DiscordAPIError: Missing Access
+[E](03.06.2022|23:29:46): DiscordAPIError: Missing Access
+[E](03.06.2022|23:29:46): DiscordAPIError: Missing Access
+[E](03.06.2022|23:29:46): DiscordAPIError: Missing Access
+[I](03.06.2022|23:30:28): Trying to play: https://www.youtube.com/watch?v=6aUronW5Q2k&list=OLAK5uy_ksvqy29AoIjmrp0UstPnW8xD_sIAiysOc&index=2
+[E](03.06.2022|23:30:28): DiscordAPIError: Missing Access
+[E](03.06.2022|23:30:28): DiscordAPIError: Missing Access
+[E](03.06.2022|23:30:28): DiscordAPIError: Missing Access
+[E](03.06.2022|23:30:28): DiscordAPIError: Missing Access
+[E](03.06.2022|23:30:28): DiscordAPIError: Missing Access
+[E](03.06.2022|23:30:28): DiscordAPIError: Missing Access
+[E](03.06.2022|23:30:28): DiscordAPIError: Missing Access
+[I](03.06.2022|23:36:59): Trying to play: https://www.youtube.com/watch?v=vIA5VSiUwFg&list=OLAK5uy_ksvqy29AoIjmrp0UstPnW8xD_sIAiysOc&index=4
+[E](03.06.2022|23:36:59): DiscordAPIError: Missing Access
+[E](03.06.2022|23:36:59): DiscordAPIError: Missing Access
+[E](03.06.2022|23:36:59): DiscordAPIError: Missing Access
+[E](03.06.2022|23:36:59): DiscordAPIError: Missing Access
+[E](03.06.2022|23:37:0): DiscordAPIError: Missing Access
+[E](03.06.2022|23:37:0): DiscordAPIError: Missing Access
+[E](03.06.2022|23:37:0): DiscordAPIError: Missing Access
+[E](04.06.2022|0:13:23): Error: Request failed with status code 400
+[I](04.06.2022|0:13:52): New user fxik976ldaw1iso6v5s4ksawqu9q9eh from ::ffff:62.217.191.94
+[I](04.06.2022|0:14:14): Trying to play: https://www.youtube.com/watch?v=6uikJTnmtgw
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:14): DiscordAPIError: Missing Access
+[I](04.06.2022|0:14:47): Trying to play: https://www.youtube.com/watch?v=clhedahJN6s
+[E](04.06.2022|0:14:47): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:47): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:47): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:47): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:47): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:47): DiscordAPIError: Missing Access
+[E](04.06.2022|0:14:47): DiscordAPIError: Missing Access
+[I](04.06.2022|0:16:30): Trying to play: https://www.youtube.com/watch?v=JBnsH8xqx38
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[E](04.06.2022|0:16:30): DiscordAPIError: Missing Access
+[I](04.06.2022|10:40:57): New user nqrggurlqvhit5kw5soe5j8d96m81aao from ::ffff:85.89.127.119
+[E](04.06.2022|10:40:58): Error: Request failed with status code 400
+[E](04.06.2022|10:41:3): Error: Request failed with status code 400
+[E](04.06.2022|10:42:58): Error: Request failed with status code 400
+[I](04.06.2022|10:42:59): New user j5xvidjewsqyiizxyiyzl47a87mows0z from ::ffff:5.228.43.243
+[E](04.06.2022|10:42:59): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[I](04.06.2022|10:43:26): New user nqrggurlqvhit5kw5soe5j8d96m81aao from ::ffff:85.89.127.119
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:26): Error: Request failed with status code 400
+[E](04.06.2022|10:43:27): Error: Request failed with status code 400
+[E](04.06.2022|10:43:27): Error: Request failed with status code 400
+[E](04.06.2022|10:43:27): Error: Request failed with status code 400
+[E](04.06.2022|10:43:27): Error: Request failed with status code 400
+[E](04.06.2022|10:43:27): Error: Request failed with status code 400
+[E](04.06.2022|10:43:27): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:28): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[E](04.06.2022|10:43:33): Error: Request failed with status code 400
+[I](04.06.2022|10:43:59): Trying to play: https://www.youtube.com/watch?v=20KHNA9jTsE
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:43:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:44:10): Error: socket hang up
+[I](04.06.2022|10:46:20): Trying to play: https://www.youtube.com/watch?v=X3vOevgaTLg&list=LL&index=2
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[E](04.06.2022|10:46:20): DiscordAPIError: Missing Access
+[I](04.06.2022|10:47:17): Trying to play: https://www.youtube.com/watch?v=Fw_jxuV82Ew&list=LL&index=23
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[E](04.06.2022|10:47:17): DiscordAPIError: Missing Access
+[I](04.06.2022|10:48:49): Trying to play: https://www.youtube.com/watch?v=jaybe7u2r7s&list=PL0vdAQFfFJvAKGlwqjdqcNdbVwRvMUPJa&index=11
+[E](04.06.2022|10:48:49): DiscordAPIError: Missing Access
+[E](04.06.2022|10:48:49): DiscordAPIError: Missing Access
+[E](04.06.2022|10:48:49): DiscordAPIError: Missing Access
+[E](04.06.2022|10:48:49): DiscordAPIError: Missing Access
+[E](04.06.2022|10:48:49): DiscordAPIError: Missing Access
+[E](04.06.2022|10:48:49): DiscordAPIError: Missing Access
+[E](04.06.2022|10:48:49): DiscordAPIError: Missing Access
+[I](04.06.2022|10:49:45): Trying to play: https://www.youtube.com/watch?v=VOzIZBEpdaI
+[E](04.06.2022|10:49:45): DiscordAPIError: Missing Access
+[E](04.06.2022|10:49:45): DiscordAPIError: Missing Access
+[E](04.06.2022|10:49:45): DiscordAPIError: Missing Access
+[E](04.06.2022|10:49:45): DiscordAPIError: Missing Access
+[E](04.06.2022|10:49:45): DiscordAPIError: Missing Access
+[E](04.06.2022|10:49:45): DiscordAPIError: Missing Access
+[E](04.06.2022|10:49:45): DiscordAPIError: Missing Access
+[I](04.06.2022|10:50:52): Trying to play: https://music.youtube.com/watch?v=wXOqYhpX4l4&list=OLAK5uy_nSclzitUp0HfiS45bWEUZxCcLMu2ShOcM
+[E](04.06.2022|10:50:53): DiscordAPIError: Missing Access
+[E](04.06.2022|10:50:53): DiscordAPIError: Missing Access
+[E](04.06.2022|10:50:53): DiscordAPIError: Missing Access
+[E](04.06.2022|10:50:53): DiscordAPIError: Missing Access
+[E](04.06.2022|10:50:53): DiscordAPIError: Missing Access
+[E](04.06.2022|10:50:53): DiscordAPIError: Missing Access
+[E](04.06.2022|10:50:53): DiscordAPIError: Missing Access
+[I](04.06.2022|10:51:59): Trying to play: https://music.youtube.com/watch?v=kRf2lFY8LoM&list=PL0vdAQFfFJvAKGlwqjdqcNdbVwRvMUPJa
+[E](04.06.2022|10:51:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:51:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:51:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:51:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:51:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:51:59): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:0): DiscordAPIError: Missing Access
+[I](04.06.2022|10:52:11): Trying to play: https://music.youtube.com/watch?v=ik_A7Mqepe0&list=PL0vdAQFfFJvAKGlwqjdqcNdbVwRvMUPJa
+[E](04.06.2022|10:52:11): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:11): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:11): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:11): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:11): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:11): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:11): DiscordAPIError: Missing Access
+[I](04.06.2022|10:52:27): Trying to play: https://music.youtube.com/watch?v=-Jf2xm-QPV0&list=PL0vdAQFfFJvAKGlwqjdqcNdbVwRvMUPJa
+[E](04.06.2022|10:52:28): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:28): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:28): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:28): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:28): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:28): DiscordAPIError: Missing Access
+[E](04.06.2022|10:52:28): DiscordAPIError: Missing Access
+[I](04.06.2022|11:13:22): Trying to play: https://www.youtube.com/watch?v=H0FRzCSnKG8&list=PL0vdAQFfFJvCOJR9nixp_03v48AfXXiqP&index=14
+[E](04.06.2022|11:13:22): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:22): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:22): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:22): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:22): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:22): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:22): DiscordAPIError: Missing Access
+[I](04.06.2022|11:13:32): Trying to play: https://www.youtube.com/watch?v=1HJ18nD4myI&list=PL0vdAQFfFJvCOJR9nixp_03v48AfXXiqP&index=12
+[E](04.06.2022|11:13:33): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:33): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:33): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:33): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:33): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:33): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:33): DiscordAPIError: Missing Access
+[I](04.06.2022|11:13:39): Trying to play: https://www.youtube.com/watch?v=VkTtzeueThg&list=PL0vdAQFfFJvCOJR9nixp_03v48AfXXiqP&index=8
+[E](04.06.2022|11:13:39): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:39): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:39): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:39): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:13:40): DiscordAPIError: Missing Access
+[I](04.06.2022|11:30:11): Trying to play: https://www.youtube.com/watch?v=1PUsih-V9P4
+[E](04.06.2022|11:30:11): DiscordAPIError: Missing Access
+[E](04.06.2022|11:30:11): DiscordAPIError: Missing Access
+[E](04.06.2022|11:30:11): DiscordAPIError: Missing Access
+[E](04.06.2022|11:30:11): DiscordAPIError: Missing Access
+[E](04.06.2022|11:30:11): DiscordAPIError: Missing Access
+[E](04.06.2022|11:30:11): DiscordAPIError: Missing Access
+[E](04.06.2022|11:30:11): DiscordAPIError: Missing Access
+[I](04.06.2022|11:33:25): Trying to play: https://www.youtube.com/watch?v=dPKQHA6kkEs&list=OLAK5uy_ksvqy29AoIjmrp0UstPnW8xD_sIAiysOc&index=6
+[E](04.06.2022|11:33:25): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:25): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:25): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:25): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:25): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:25): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:25): DiscordAPIError: Missing Access
+[I](04.06.2022|11:33:40): Trying to play: https://www.youtube.com/watch?v=6aUronW5Q2k&list=OLAK5uy_ksvqy29AoIjmrp0UstPnW8xD_sIAiysOc&index=1
+[E](04.06.2022|11:33:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:40): DiscordAPIError: Missing Access
+[E](04.06.2022|11:33:40): DiscordAPIError: Missing Access
+[I](04.06.2022|14:30:20): New user fxik976ldaw1iso6v5s4ksawqu9q9eh from ::ffff:62.217.190.241
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[E](04.06.2022|14:30:38): DiscordAPIError: Missing Access
+[I](04.06.2022|19:39:50): Trying to play: https://www.youtube.com/watch?v=TmnKUWQs5Mc
+[E](04.06.2022|19:39:50): DiscordAPIError: Missing Access
+[E](04.06.2022|19:39:50): DiscordAPIError: Missing Access
+[E](04.06.2022|19:39:50): DiscordAPIError: Missing Access
+[E](04.06.2022|19:39:50): DiscordAPIError: Missing Access
+[E](04.06.2022|19:39:50): DiscordAPIError: Missing Access
+[E](04.06.2022|19:39:50): DiscordAPIError: Missing Access
+[E](04.06.2022|19:39:50): DiscordAPIError: Missing Access
+[I](04.06.2022|19:40:2): Trying to play: https://www.youtube.com/watch?v=VB-tNghHmMc
+[E](04.06.2022|19:40:2): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:2): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:2): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:2): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:2): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:2): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:2): DiscordAPIError: Missing Access
+[I](04.06.2022|19:40:18): Trying to play: https://www.youtube.com/watch?v=TmnKUWQs5Mc
+[E](04.06.2022|19:40:18): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:18): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:18): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:18): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:18): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:18): DiscordAPIError: Missing Access
+[E](04.06.2022|19:40:18): DiscordAPIError: Missing Access
+[I](04.06.2022|19:43:10): Trying to play: https://www.youtube.com/watch?v=95HPhKsQdeo
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:10): DiscordAPIError: Missing Access
+[I](04.06.2022|19:43:55): Trying to play: https://www.youtube.com/watch?v=CRSXTPAJpTI
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[E](04.06.2022|19:43:56): DiscordAPIError: Missing Access
+[I](04.06.2022|19:47:25): Trying to play: https://www.youtube.com/watch?v=1n0yvlruSMQ&list=LL&index=92
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[E](04.06.2022|19:47:25): DiscordAPIError: Missing Access
+[I](04.06.2022|19:50:36): Trying to play: https://www.youtube.com/watch?v=gI8KxABjh_0&list=LL&index=101&t=206s
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[E](04.06.2022|19:50:37): DiscordAPIError: Missing Access
+[I](04.06.2022|19:58:9): Trying to play: https://www.youtube.com/watch?v=_FxWEti9HkM&list=RDovy1PpNRhgA&index=18
+[E](04.06.2022|19:58:9): DiscordAPIError: Missing Access
+[E](04.06.2022|19:58:9): DiscordAPIError: Missing Access
+[E](04.06.2022|19:58:9): DiscordAPIError: Missing Access
+[E](04.06.2022|19:58:9): DiscordAPIError: Missing Access
+[E](04.06.2022|19:58:9): DiscordAPIError: Missing Access
+[E](04.06.2022|19:58:9): DiscordAPIError: Missing Access
+[E](04.06.2022|19:58:9): DiscordAPIError: Missing Access
+[I](04.06.2022|20:1:11): Trying to play: https://www.youtube.com/watch?v=lOfZLb33uCg&list=LL&index=152
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[E](04.06.2022|20:1:11): DiscordAPIError: Missing Access
+[I](04.06.2022|20:2:32): Trying to play: https://www.youtube.com/watch?v=j80UUgnJ6Cw
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[E](04.06.2022|20:2:32): DiscordAPIError: Missing Access
+[I](04.06.2022|20:3:36): Trying to play: https://www.youtube.com/watch?v=6hzrDeceEKc&list=LL&index=267
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:36): DiscordAPIError: Missing Access
+[I](04.06.2022|20:3:50): Trying to play: https://www.youtube.com/watch?v=1lyu1KKwC74&list=LL&index=271
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[E](04.06.2022|20:3:50): DiscordAPIError: Missing Access
+[I](04.06.2022|20:23:31): Trying to play: https://www.youtube.com/watch?v=2ZBtPf7FOoM
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:23:31): DiscordAPIError: Missing Access
+[I](04.06.2022|20:24:54): Trying to play: https://www.youtube.com/watch?v=p0OVD0_YJnU&list=OLAK5uy_mYzpOFB-6D0ooK-rCL5PuR9zjAxFIV9lo&index=2
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[E](04.06.2022|20:24:54): DiscordAPIError: Missing Access
+[I](04.06.2022|20:26:31): Trying to play: https://www.youtube.com/watch?v=1V_xRb0x9aw
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[E](04.06.2022|20:26:31): DiscordAPIError: Missing Access
+[I](04.06.2022|20:30:9): Trying to play: https://www.youtube.com/watch?v=zWeejpSfWoA&list=PLSsujvbGVBe1wcVb5IuUrm0kFb4JFY8jF&index=12
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:9): DiscordAPIError: Missing Access
+[I](04.06.2022|20:30:17): Trying to play: https://www.youtube.com/watch?v=zWeejpSfWoA&list=PLSsujvbGVBe1wcVb5IuUrm0kFb4JFY8jF&index=12
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[E](04.06.2022|20:30:17): DiscordAPIError: Missing Access
+[I](04.06.2022|20:36:42): Trying to play: https://www.youtube.com/watch?v=imxSXI1IYVs
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:43): DiscordAPIError: Missing Access
+[I](04.06.2022|20:36:47): Trying to play: https://www.youtube.com/watch?v=JsUQT9uwJlQ
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[E](04.06.2022|20:36:47): DiscordAPIError: Missing Access
+[I](04.06.2022|20:37:44): Trying to play: https://www.youtube.com/watch?v=oWTrOBCnbK0
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:44): DiscordAPIError: Missing Access
+[I](04.06.2022|20:37:54): Trying to play: https://www.youtube.com/watch?v=oWTrOBCnbK0
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[E](04.06.2022|20:37:55): DiscordAPIError: Missing Access
+[I](04.06.2022|20:40:26): Trying to play: https://www.youtube.com/watch?v=OulROPM4OCw&list=LL&index=106
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:26): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:27): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:27): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:27): DiscordAPIError: Missing Access
+[E](04.06.2022|20:40:27): DiscordAPIError: Missing Access
+[I](05.06.2022|15:22:45): Trying to play: https://www.youtube.com/watch?v=xLsuam9o9BA
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:45): DiscordAPIError: Missing Access
+[E](05.06.2022|15:22:46): DiscordAPIError: Missing Access
+[I](05.06.2022|15:23:9): Trying to play: https://www.youtube.com/watch?v=tDuEWw648jo
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[E](05.06.2022|15:23:9): DiscordAPIError: Missing Access
+[I](05.06.2022|15:24:10): Trying to play: https://www.youtube.com/watch?v=QyPR77rg1to&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=5
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[E](05.06.2022|15:24:10): DiscordAPIError: Missing Access
+[I](05.06.2022|15:26:31): Trying to play: https://www.youtube.com/watch?v=YZ3XjVVNagU&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=59
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:31): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:32): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:32): DiscordAPIError: Missing Access
+[I](05.06.2022|15:26:43): Trying to play: https://www.youtube.com/watch?v=N3epEVMNJdY&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=36
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[E](05.06.2022|15:26:43): DiscordAPIError: Missing Access
+[I](05.06.2022|15:28:25): Trying to play: https://www.youtube.com/watch?v=2TgO-tN5wAM&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=68
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:28:25): DiscordAPIError: Missing Access
+[I](05.06.2022|15:30:27): Trying to play: https://www.youtube.com/watch?v=EBhFHJMVfiI&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=71
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:28): DiscordAPIError: Missing Access
+[I](05.06.2022|15:30:47): Trying to play: https://www.youtube.com/watch?v=hMa4hZQbrms&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=77
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[E](05.06.2022|15:30:47): DiscordAPIError: Missing Access
+[I](05.06.2022|15:31:28): Trying to play: https://www.youtube.com/watch?v=WgRfPc1lfJk&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=92
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[E](05.06.2022|15:31:28): DiscordAPIError: Missing Access
+[I](05.06.2022|15:40:55): Trying to play: https://www.youtube.com/watch?v=71u0i6J-Qes&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=84
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[E](05.06.2022|15:40:55): DiscordAPIError: Missing Access
+[I](05.06.2022|15:49:25): Trying to play: https://www.youtube.com/watch?v=71u0i6J-Qes&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=84
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[E](05.06.2022|15:49:25): DiscordAPIError: Missing Access
+[I](05.06.2022|16:7:55): Trying to play: https://www.youtube.com/watch?v=Zzo6L3wsf8c&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=15
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[E](05.06.2022|16:7:55): DiscordAPIError: Missing Access
+[I](05.06.2022|16:8:20): Trying to play: https://www.youtube.com/watch?v=Zzo6L3wsf8c&list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg&index=15
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[E](05.06.2022|16:8:20): DiscordAPIError: Missing Access
+[I](05.06.2022|18:30:43): Trying to play: https://www.youtube.com/watch?v=IPrm_WddpfI
+[E](05.06.2022|18:30:43): DiscordAPIError: Missing Access
+[E](05.06.2022|18:30:43): DiscordAPIError: Missing Access
+[E](05.06.2022|18:30:43): DiscordAPIError: Missing Access
+[E](05.06.2022|18:30:43): DiscordAPIError: Missing Access
+[E](05.06.2022|18:30:43): DiscordAPIError: Missing Access
+[E](05.06.2022|18:30:43): DiscordAPIError: Missing Access
+[E](05.06.2022|18:30:43): DiscordAPIError: Missing Access
+[I](05.06.2022|18:38:40): New user cak149jk7na3r7jk1dvocm3mtpwal5pln from ::ffff:109.252.148.208
+[I](05.06.2022|18:39:21): Trying to play: https://www.youtube.com/watch?v=vr3RXlA44jg
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:21): DiscordAPIError: Missing Access
+[I](05.06.2022|18:39:49): Trying to play: https://www.youtube.com/watch?v=X-4U-vzScbw
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[E](05.06.2022|18:39:49): DiscordAPIError: Missing Access
+[I](05.06.2022|18:41:34): Trying to play: https://www.youtube.com/watch?v=DhtVkvMWNPk
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[E](05.06.2022|18:41:35): DiscordAPIError: Missing Access
+[I](05.06.2022|18:42:33): Trying to play: https://www.youtube.com/watch?v=t6isux5XWH0&t=12s
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[E](05.06.2022|18:42:33): DiscordAPIError: Missing Access
+[I](05.06.2022|18:43:59): Trying to play: https://www.youtube.com/watch?v=DhtVkvMWNPk
+[E](05.06.2022|18:43:59): DiscordAPIError: Missing Access
+[E](05.06.2022|18:43:59): DiscordAPIError: Missing Access
+[E](05.06.2022|18:43:59): DiscordAPIError: Missing Access
+[E](05.06.2022|18:43:59): DiscordAPIError: Missing Access
+[E](05.06.2022|18:43:59): DiscordAPIError: Missing Access
+[E](05.06.2022|18:43:59): DiscordAPIError: Missing Access
+[E](05.06.2022|18:43:59): DiscordAPIError: Missing Access
+[I](05.06.2022|18:44:44): Trying to play: https://www.youtube.com/watch?v=t6isux5XWH0
+[E](05.06.2022|18:44:45): DiscordAPIError: Missing Access
+[E](05.06.2022|18:44:45): DiscordAPIError: Missing Access
+[E](05.06.2022|18:44:45): DiscordAPIError: Missing Access
+[E](05.06.2022|18:44:45): DiscordAPIError: Missing Access
+[E](05.06.2022|18:44:45): DiscordAPIError: Missing Access
+[E](05.06.2022|18:44:45): DiscordAPIError: Missing Access
+[E](05.06.2022|18:44:45): DiscordAPIError: Missing Access
+[I](05.06.2022|18:45:23): Trying to play: https://www.youtube.com/watch?v=KXTmb1DyEwQ
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[E](05.06.2022|18:45:23): DiscordAPIError: Missing Access
+[I](05.06.2022|18:46:28): Trying to play: https://www.youtube.com/watch?v=d0LGR-HrEcY
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[E](05.06.2022|18:46:28): DiscordAPIError: Missing Access
+[I](06.06.2022|15:56:38): Trying to play: https://www.youtube.com/watch?v=rM9WGgyDssU&list=LL&index=180
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[E](06.06.2022|15:56:38): DiscordAPIError: Missing Access
+[I](06.06.2022|16:0:21): Trying to play: https://www.youtube.com/watch?v=3DsJTDLHiIQ&list=LL&index=249
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[E](06.06.2022|16:0:21): DiscordAPIError: Missing Access
+[I](06.06.2022|16:3:24): Trying to play: https://www.youtube.com/watch?v=o47NEsDm2gw
+[E](06.06.2022|16:3:24): DiscordAPIError: Missing Access
+[E](06.06.2022|16:3:24): DiscordAPIError: Missing Access
+[E](06.06.2022|16:3:24): DiscordAPIError: Missing Access
+[E](06.06.2022|16:3:24): DiscordAPIError: Missing Access
+[E](06.06.2022|16:3:24): DiscordAPIError: Missing Access
+[E](06.06.2022|16:3:24): DiscordAPIError: Missing Access
+[E](06.06.2022|16:3:25): DiscordAPIError: Missing Access
+[I](06.06.2022|16:4:14): Trying to play: https://www.youtube.com/watch?v=j0lN0w5HVT8
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:14): DiscordAPIError: Missing Access
+[E](06.06.2022|16:4:15): DiscordAPIError: Missing Access
+[I](06.06.2022|16:13:51): Trying to play: https://www.youtube.com/watch?v=p02Ww4YrsiM&list=LL&index=317
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[E](06.06.2022|16:13:51): DiscordAPIError: Missing Access
+[I](06.06.2022|16:14:4): Trying to play: https://www.youtube.com/playlist?list=LL
+[E](06.06.2022|16:14:4): Error: Request failed with status code 404
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:4): DiscordAPIError: Missing Access
+[I](06.06.2022|16:14:19): Trying to play: https://www.youtube.com/watch?v=j0lN0w5HVT8
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
+[E](06.06.2022|16:14:19): DiscordAPIError: Missing Access
